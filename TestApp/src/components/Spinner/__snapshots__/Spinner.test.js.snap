@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner Should render Spinner when state is undefined  1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "rgba(0,0,0,0.6)",
+      "bottom": 0,
+      "flex": 1,
+      "height": "100%",
+      "justifyContent": "center",
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+      "width": "100%",
+      "zIndex": 1000,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "width": 64,
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#0768fd",
+          "borderRadius": 2,
+          "height": 4,
+          "transform": Array [
+            Object {
+              "scale": 1,
+            },
+          ],
+          "width": 4,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "backgroundColor": "#9e54b0",
+          "borderRadius": 2,
+          "height": 4,
+          "transform": Array [
+            Object {
+              "scale": 1,
+            },
+          ],
+          "width": 4,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "backgroundColor": "#df216d",
+          "borderRadius": 2,
+          "height": 4,
+          "transform": Array [
+            Object {
+              "scale": 1,
+            },
+          ],
+          "width": 4,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "backgroundColor": "#ff9300",
+          "borderRadius": 2,
+          "height": 4,
+          "transform": Array [
+            Object {
+              "scale": 1,
+            },
+          ],
+          "width": 4,
+        }
+      }
+    />
+  </View>
+</View>
+`;
